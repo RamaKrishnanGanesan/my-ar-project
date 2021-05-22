@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/my-ar-project/static/css/main.67beff97.chunk.css",
-    "main.js": "/my-ar-project/static/js/main.c8bdbcba.chunk.js",
-    "main.js.map": "/my-ar-project/static/js/main.c8bdbcba.chunk.js.map",
+    "main.js": "/my-ar-project/static/js/main.78b6fa8f.chunk.js",
+    "main.js.map": "/my-ar-project/static/js/main.78b6fa8f.chunk.js.map",
     "runtime-main.js": "/my-ar-project/static/js/runtime-main.ee0788a6.js",
     "runtime-main.js.map": "/my-ar-project/static/js/runtime-main.ee0788a6.js.map",
     "static/js/2.c451f97c.chunk.js": "/my-ar-project/static/js/2.c451f97c.chunk.js",
@@ -11,13 +11,12 @@
     "static/js/3.2cf00217.chunk.js.map": "/my-ar-project/static/js/3.2cf00217.chunk.js.map",
     "index.html": "/my-ar-project/index.html",
     "static/css/main.67beff97.chunk.css.map": "/my-ar-project/static/css/main.67beff97.chunk.css.map",
-    "static/js/2.c451f97c.chunk.js.LICENSE.txt": "/my-ar-project/static/js/2.c451f97c.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/my-ar-project/static/media/logo.6ce24c58.svg"
+    "static/js/2.c451f97c.chunk.js.LICENSE.txt": "/my-ar-project/static/js/2.c451f97c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ee0788a6.js",
     "static/js/2.c451f97c.chunk.js",
     "static/css/main.67beff97.chunk.css",
-    "static/js/main.c8bdbcba.chunk.js"
+    "static/js/main.78b6fa8f.chunk.js"
   ]
 }
