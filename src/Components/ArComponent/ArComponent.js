@@ -17,7 +17,7 @@ export default class ARComponent extends React.Component {
             </a-assets>
             <a-marker type="pattern" url="data/kanji.patt">
             <a-plane color="white" rotation="-90 0 0" position="0 -0.25 0" width="3" material="transparent: true; opacity: 0.90"></a-plane>
-            <a-text value="Hello, world!" font="fonts/Exo2Bold.fnt" color="red" rotation="-90 0 0" align="center" scale="2 2 2"></a-text>
+            <a-text value="Ramakrishnan ganesan" font="fonts/Exo2Bold.fnt" color="red" rotation="-90 0 0" align="center" scale="2 2 2"></a-text>
 
             </a-marker>
             <a-marker type="pattern" url="data/hiro.patt">
