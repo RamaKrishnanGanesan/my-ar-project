@@ -15,7 +15,7 @@ export default class ARComponent extends React.Component {
             <a-asset-item id="exoFont" src="fonts/exoBlack.typeface.json"></a-asset-item>
             <img id="pixels" src="images/pixels.png" />
             </a-assets>
-            <a-marker type="pattern" url="data/kanji.patt">
+            <a-marker type="pattern" url="pattern-usbank-logo.patt">
             <a-plane color="white" rotation="-90 0 0" position="0 -0.25 0" width="3" material="transparent: true; opacity: 0.90"></a-plane>
             <a-text value="Love you Chellakutty <3" font="fonts/Exo2Bold.fnt" color="red" rotation="-90 0 0" align="center" scale="2 2 2"></a-text>
 
